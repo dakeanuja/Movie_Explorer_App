@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/ime_secondary_split_test_activity.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/ime_base_split_test_activity.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_action_tombstone.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_template_part_time.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_template_custom_big.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/custom_dialog.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_action.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_action.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_template_part_chronometer.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout/notification_template_icon_group.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_fade_exit.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_fade_enter.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_open_exit.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_close_enter.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_close_exit.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/animator/fragment_open_enter.xml",
+        "source": "store.checker.store_checker-fragment-1.7.1-2:/animator/fragment_open_enter.xml"
+    }
+]

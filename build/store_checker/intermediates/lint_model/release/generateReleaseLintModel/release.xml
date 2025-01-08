@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="store.checker.store_checker"
+    minSdkVersion="16"
+    targetSdkVersion="16"
+    mergedManifest="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/intermediates/default_proguard_files/global/proguard-android.txt-8.3.2"
+    partialResultsDir="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="store.checker.store_checker"
+      generatedSourceFolders="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/store_checker/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/ccildevelopment/.gradle/caches/transforms-3/df4da31a137ed1bbdcc23a2271a1a396/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

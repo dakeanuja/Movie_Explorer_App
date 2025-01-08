@@ -1,0 +1,4 @@
+#Mon Nov 25 11:22:08 IST 2024
+base.0=/Users/ccildevelopment/StudioProjects/tmdb_movie_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

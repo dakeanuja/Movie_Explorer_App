@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "store.checker.store_checker-release-25:/drawable-v21/notification_action_background.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/drawable-v21/notification_action_background.xml"
+    }
+]

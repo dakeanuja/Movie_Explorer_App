@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "store.checker.store_checker-release-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout-v21/notification_action.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "store.checker.store_checker-release-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "store.checker.store_checker-core-1.13.1-7:/layout-v21/notification_template_icon_group.xml"
+    }
+]
