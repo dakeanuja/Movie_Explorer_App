@@ -1,16 +1,35 @@
-# tmdb_movie_app
+# Movie Explorer App with BLoC and TMDb API
 
-A new Flutter project.
+A Flutter app built with BLoC that fetches and displays movie details from the TMDb API — including ratings, overviews, posters, and more. Perfect for browsing trending films in style!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse trending movies with high-quality posters  
+- View detailed movie descriptions and ratings  
+- Smooth state management using BLoC pattern  
+- Efficient API integration with TMDb  
+- Responsive and user-friendly UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Follow these steps to run the app locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/dakeanuja/movie-explorer-app.git
+   cd movie-explorer-app
+
+2. **Install Dependencies**
+   
+   - flutter pub get
+
+3. **Run the App**
+
+   - flutter run
+
+---
